@@ -2,12 +2,27 @@
 
 AI/ML Enthusiast | Full-stack Developer | Cloud & DevOps Explorer
 
-<img align="right" src="https://michealprofile.netlify.app/IMG_6828.JPG" width="250" style="border-radius:15px;" />
+<img align="right" src="https://michealprofile.netlify.app/IMG_6828.JPG" width="220" style="border-radius:50%;"/>
 
 - 🔭 Here's my [portfolio](https://michealprofile.netlify.app)
 - 🌱 Currently diving deeper into: Multi-Agent RL, AWS Lambda, Kubernetes
 - 👨‍🎓 B.E (Hons) Computer Science & Engineering (AI/ML), **SSNCE**, CGPA: 9.06 (Dept Rank 5)
 - ⚡ Fun fact: Love blending IoT + AI for smart systems.
+
+---
+
+### 🚀 Internships & Roles
+<p>
+  <img src="https://media.licdn.com/dms/image/v2/C510BAQE40-is5MArwA/company-logo_200_200/company-logo_200_200/0/1630616806817/f13tech_logo?e=1755129600&v=beta&t=kIBaPufn5OQomCstYxyhNFadPVUbrga7KLKZXjDl5WA" width="50" style="border-radius:10px;"/> 
+  <b>AWS Cloud Intern @ F13 Technologies</b>
+</p>
+
+<p>
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQFryFNz3kWsbg/company-logo_200_200/company-logo_200_200/0/1692791348408/nittrichy_logo?e=1755129600&v=beta&t=uOk10_4bglwepfhB89vSqnnPYyOEdTt1JB5ar5bAxgM" width="50" style="border-radius:10px;"/> 
+  <b>Research Intern @ NIT Trichy (MARL)</b>
+</p>
+
+---
 
 ### 🌐 Social Presence
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/micheal-berdinanth-m/) 
@@ -18,58 +33,26 @@ AI/ML Enthusiast | Full-stack Developer | Cloud & DevOps Explorer
 
 ---
 
-### 🚀 Featured Projects
-- [**BG-Vanish**](https://github.com/Mmb0129/BG-Vanish)  
-  🖼️ AI-powered background remover (U²-Net), Razorpay, Clerk Auth, hosted on Vercel.
-- [**Mithran App**](https://github.com/Mmb0129/Mithran-App)  
-  🌾 Smart Agri: crop disease detection, soil/weather insights.
-- [**Intern Tracker**](https://github.com/Mmb0129/Intern-Tracker-App)  
-  📚 Role-based system with Google Sheets & auto-email reminders.
-- [**Smart Vehicle Security**](https://github.com/Mmb0129/Smart-Vehicle-Security)  
-  🚗 IoT theft detection + accident control.
-- [**GenOrNot**](https://github.com/Mmb0129/Real-Vs-Fake-Detector)  
-  🔍 ML pipeline to spot real vs AI-generated images.
-
----
-
-### 👨‍💻 Technical Skills
-- **Languages:** Python, Java, C, C++
-- **Backend:** Flask, Node.js, Express.js
-- **Frontend:** React.js, HTML, CSS, Tailwind
-- **AI/ML:** TensorFlow, Keras, OpenCV, PyTorch, Scikit-learn, NumPy, Pandas
-- **Cloud & Databases:** AWS, MongoDB, MySQL
-- **Others:** Docker, Kubernetes, CUDA, Git/GitHub, Dialogflow, Postman, PowerBI
-
----
-
 ### 💻 I code in
-<img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/null/nodejs.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/react-native.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/docker.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/kubernetes.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-
----
-
-### 🛠 IDEs & Tools I Use
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/50/000000/git.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> &nbsp;
-<img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<p>
+  <img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/null/nodejs.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/docker.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/kubernetes.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+</p>
 
 ---
 

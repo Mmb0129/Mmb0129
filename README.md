@@ -20,7 +20,15 @@ AI/ML Enthusiast | Full-stack Developer | Cloud & DevOps Explorer
 
 ---
 
-### 🚀 Internships & Roles
+### 🚀 Featured Projects
+- 🔗 [**BG Vanish**](https://bg-vanish-frontend.vercel.app/) — AI-powered SaaS platform for seamless background removal.
+- 🔗 [**SnipUrls**](https://github.com/Mmb0129/snipurls) — SaaS platform for Shortening URL with analytics.
+- 🔗 [**Agri Solution Mithran**](https://github.com/Mmb0129) — Smart agriculture advisory & management system.
+- 🔗 [**InternTracker**](https://github.com/Mmb0129) — Internship records & document validation platform.
+
+---
+
+### 💼 Internships & Roles
 <p>
   <img src="https://media.licdn.com/dms/image/v2/C510BAQE40-is5MArwA/company-logo_200_200/company-logo_200_200/0/1630616806817/f13tech_logo?e=1755129600&v=beta&t=kIBaPufn5OQomCstYxyhNFadPVUbrga7KLKZXjDl5WA" width="50" style="border-radius:10px;"/> 
   <b>AWS Cloud Intern @ F13 Technologies</b>
@@ -28,7 +36,7 @@ AI/ML Enthusiast | Full-stack Developer | Cloud & DevOps Explorer
 
 <p>
   <img src="https://media.licdn.com/dms/image/v2/D560BAQFryFNz3kWsbg/company-logo_200_200/company-logo_200_200/0/1692791348408/nittrichy_logo?e=1755129600&v=beta&t=uOk10_4bglwepfhB89vSqnnPYyOEdTt1JB5ar5bAxgM" width="50" style="border-radius:10px;"/> 
-  <b>Research Intern @ NIT Trichy</b>
+  <b>Research Intern @ NIT Trichy (MARL)</b>
 </p>
 
 ---

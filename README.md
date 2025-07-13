@@ -21,10 +21,10 @@ AI/ML Enthusiast | Full-stack Developer | Cloud & DevOps Explorer
 ---
 
 ### 🚀 Featured Projects
-- 🔗 [**BG Vanish**](https://bg-vanish-frontend.vercel.app/) — AI-powered SaaS platform for seamless background removal.
-- 🔗 [**SnipUrls**](https://github.com/Mmb0129/snipurls) — SaaS platform for Shortening URL with analytics.
-- 🔗 [**Agri Solution Mithran**](https://github.com/Mmb0129) — Smart agriculture advisory & management system.
-- 🔗 [**InternTracker**](https://github.com/Mmb0129) — Internship records & document validation platform.
+- 🔗 [**BG Vanish**](https://bgvanish.vercel.app/) — AI-powered SaaS platform for seamless background removal.
+- 🔗 [**SnipUrls**](https://snipurls.netlify.app/) — SaaS platform for Shortening URL with analytics.
+- 🔗 [**Agri Solution Mithran**](https://github.com/Mmb0129/Mithran-App) — Smart agriculture advisory & management system.
+- 🔗 [**InternTracker**](https://ssn-interntracker.vercel.app/) — Internship records & document validation platform.
 
 ---
 

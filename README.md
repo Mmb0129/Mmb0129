@@ -1,71 +1,88 @@
-<h1 align="center">Hi 👋, I'm Micheal Berdinanth M</h1>
-<h3 align="center">Aspiring AI Engineer | Cloud Enthusiast | Full-stack Developer</h3>
+## Hi there 👋 It's me Micheal Berdinanth
 
-<p align="center">
-  <a href="https://github.com/Mmb0129"><img src="https://img.shields.io/github/followers/Mmb0129?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/micheal-berdinanth-m/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:michealberdinanth2210812@ssn.edu.in"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
-</p>
+AI/ML Enthusiast | Cloud & DevOps Explorer | Full-stack Developer
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
----
+- 🔭 Here's my [portfolio](https://michealprofile.netlify.app/)
+- 🌱 Currently learning: Multi-Agent RL, AWS Lambda, Advanced Node.js
+- 👨‍🎓 B.E (Hons) Computer Science & Engineering (AI/ML), **SSNCE**, CGPA: 9.06 (Dept Rank 5)
+- ⚡ Fun fact: I love building smart IoT & AI systems.
 
-- 🎓 **B.E (Hons) Computer Science & Engineering, AI/ML specialization**  
-  at SSN College of Engineering, Chennai (CGPA: 9.06, Dept Rank: 5)
-- 🌱 Currently deepening my skills in **AWS, Multi-Agent RL, and Cloud DevOps**
-- 👨‍💻 Actively building projects in **AI, IoT, Full-stack Web & Cloud**
+### 🌐 Social Presence
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/micheal-berdinanth-m/) 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Mmb0129)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:michealberdinanth2210812@ssn.edu.in)
 
----
-
-## 🛠️ Tech Stack
-- **Languages:** Python, Java, C, C++
-- **Backend:** Flask, Node.js, Express.js
-- **Frontend:** React.js, HTML, CSS, Tailwind
-- **AI/ML:** TensorFlow, Keras, PyTorch, OpenCV, Scikit-learn, NumPy, Pandas
-- **Cloud & Databases:** AWS, MongoDB, MySQL
-- **Others:** Docker, CUDA, Git/GitHub, Dialogflow, Postman, PowerBI
+![Visitor Count](https://komarev.com/ghpvc/?username=Mmb0129&style=flat-square&color=00ff7f)
 
 ---
 
-## 🚀 Featured Projects
-- 💫 [**BG-Vanish**](https://github.com/Mmb0129/BG-Vanish) – SaaS platform for instant AI-based background removal  
-  🛠️ *React, Node.js, MongoDB, U²-Net, Clerk API, Razorpay, Vercel*  
-  🌐 [Live Demo](https://bgvanish.vercel.app/)
-
-- 🌾 [**Mithran App**](https://github.com/Mmb0129/Mithran-App) – Smart agriculture app with crop disease detection, soil data & forecasting  
-  🛠️ *Flutter, Firebase, Node.js, Jenkins, GCP*
-
-- 📚 [**Intern Tracker**](https://github.com/Mmb0129/Intern-Tracker-App) – Web app to track student internships & auto-email reminders  
-  🛠️ *Node.js, Express, MongoDB, Google Sheets API, Nodemailer*
-
-- 🚘 [**Smart Vehicle Security & Safety**](https://github.com/Mmb0129/Smart-Vehicle-Security) – IoT-based theft & accident detection system  
-  🛠️ *Arduino, Raspberry Pi, Python, IoT Sensors*
-
-- 🔍 [**GenOrNot**](https://github.com/Mmb0129/Real-Vs-Fake-Detector) – ML tool to detect AI-generated vs real images  
-  🛠️ *Python, OpenCV, SVM, Flask, AWS*
+### 🚀 Featured Projects
+- [**BG-Vanish**](https://github.com/Mmb0129/BG-Vanish)  
+  🖼️ AI-based background remover (U²-Net), Razorpay payments, Clerk Auth, hosted on Vercel.
+- [**Mithran App**](https://github.com/Mmb0129/Mithran-App)  
+  🌾 Smart agriculture app: crop disease detection, weather, soil data.
+- [**Intern Tracker**](https://github.com/Mmb0129/Intern-Tracker-App)  
+  📚 Role-based internship management with Google Sheets & auto-email reminders.
+- [**Smart Vehicle Security**](https://github.com/Mmb0129/Smart-Vehicle-Security)  
+  🚗 IoT theft detection + accident alerts via GSM, GPS.
+- [**GenOrNot**](https://github.com/Mmb0129/Real-Vs-Fake-Detector)  
+  🔍 ML pipeline to detect real vs AI-generated images.
 
 ---
 
-## 🏆 Achievements
-- 🥇 **Merit Scholarship & Academic Excellence** (SSNCE)
-- 🚀 Top 50 team in **Smart India Hackathon (Internal) 2024**
-- 🌱 Top 5 team on **SSN Innovation Day** for Mithran App
-- 🥈 Special Recognition – **Altair Data Science Hackathon (IIITDM)**
-- 🥳 NPTEL Top 2% (Elite + Silver) in Privacy & Security in Online Social Media
+### 👨‍💻 I code in
+<img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img height="40" src="https://img.icons8.com/color/48/null/nodejs.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<img height="40" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/docker.png"/>
 
 ---
 
-## 📫 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/micheal-berdinanth-m/)
-- 📧 [Email](mailto:michealberdinanth2210812@ssn.edu.in)
-- 🌐 [Portfolio](https://michealprofile.netlify.app/)
+### 🛠 IDEs & Tools I Use
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img height="40" src="https://img.icons8.com/color/50/000000/git.png"/>
+<img height="40" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+<img height="40" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mmb0129&show_icons=true&theme=tokyonight" alt="micheal's github stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmb0129&layout=compact&theme=tokyonight" height="180"/>
-</p>
+### 💻 Workspace Specs
+<img height="30" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Ubuntu_22-FFFFFF?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
+<img height="30" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 ---
 
-> *“Always curious, always building.”* 🚀
+![Micheal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmb0129&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmb0129&layout=compact&theme=tokyonight)
+
+[![Micheal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mmb0129&bg_color=000000&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Mmb0129&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+### 📊 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/MichealBerdinanth?theme=dark&ext=contest)](https://leetcode.com/u/MichealBerdinanth/)
+
+---
+
+> *“Always curious, always building 🚀.”*

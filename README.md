@@ -36,7 +36,7 @@ AI/ML Enthusiast | Full-stack Developer | Cloud & DevOps Explorer
 
 <p>
   <img src="https://media.licdn.com/dms/image/v2/D560BAQFryFNz3kWsbg/company-logo_200_200/company-logo_200_200/0/1692791348408/nittrichy_logo?e=1755129600&v=beta&t=uOk10_4bglwepfhB89vSqnnPYyOEdTt1JB5ar5bAxgM" width="50" style="border-radius:10px;"/> 
-  <b>Research Intern @ NIT Trichy (MARL)</b>
+  <b>Research Intern @ NIT Trichy</b>
 </p>
 
 ---

@@ -2,12 +2,14 @@
 
 AI/ML Enthusiast | Full-stack Developer | Cloud & DevOps Explorer
 
-<img align="right" src="https://michealprofile.netlify.app/IMG_6828.JPG" width="220" style="border-radius:50%;"/>
+<p align="right">
+  <img src="https://michealprofile.netlify.app/IMG_6828.JPG" width="220" style="border-radius: 50%;"/>
+</p>
 
 - 🔭 Here's my [portfolio](https://michealprofile.netlify.app)
-- 🌱 Currently diving deeper into: Multi-Agent RL, AWS Lambda, Kubernetes
+- 🌱 Always exploring new ways to blend AI, cloud, and scalable systems.
 - 👨‍🎓 B.E (Hons) Computer Science & Engineering (AI/ML), **SSNCE**, CGPA: 9.06 (Dept Rank 5)
-- ⚡ Fun fact: Love blending IoT + AI for smart systems.
+- ⚡ Fun fact: I enjoy building practical tech that solves real-world problems.
 
 ---
 
@@ -33,7 +35,7 @@ AI/ML Enthusiast | Full-stack Developer | Cloud & DevOps Explorer
 
 ---
 
-### 💻 I code in
+### 💻 I code in & build with
 <p>
   <img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp;
   <img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> &nbsp;
@@ -52,6 +54,22 @@ AI/ML Enthusiast | Full-stack Developer | Cloud & DevOps Explorer
   <img height="40" src="https://img.icons8.com/color/48/000000/docker.png"/> &nbsp;
   <img height="40" src="https://img.icons8.com/color/48/000000/kubernetes.png"/> &nbsp;
   <img height="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+</p>
+
+---
+
+### 🛠 IDEs & Tools I use
+<p>
+  <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/480/null/notion--v1.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> &nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> &nbsp;
+  <img height="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> &nbsp;
+  <img height="40" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 </p>
 
 ---

@@ -8,7 +8,7 @@ AI/ML Enthusiast | Full-stack Developer | Cloud & DevOps Explorer
 
 - 🔭 Here's my [portfolio](https://michealprofile.netlify.app)
 - 🌱 Always exploring new ways to blend AI, cloud, and scalable systems.
-- 👨‍🎓 B.E (Hons) Computer Science & Engineering (AI/ML), **SSNCE**, CGPA: 9.06 (Dept Rank 5)
+- 👨‍🎓 B.E (Hons) Computer Science & Engineering (AI/ML), **SSNCE**, CGPA: 9.08 (Dept Rank 3 (IIIrd Yr))
 - ⚡ Fun fact: I enjoy building practical tech that solves real-world problems.
 
 </td>
